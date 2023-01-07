@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-   name: mymynginx-svc
+   name: mynginx-svc
    labels:
      app: mynginx
      version: 2.6.1
